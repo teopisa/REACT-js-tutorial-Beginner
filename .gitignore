@@ -1,0 +1,61 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# Mac OS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.nib
+*.sublime-project
+*.sublime-workspace
+
+# Yarn
+.yarn/
+
+# npm package lock
+package-lock.json
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional: Ignore compiled JavaScript files if you are using TypeScript
+*.js
+*.jsx
+
+# Optional: Ignore specific test coverage folders if you are using tools like Jest
+coverage/
+
+# Optional: Ignore log and temporary files from other tools
+*.tmp
+*.swp
+*.swo
+*.pid
+*.seed
+*.pid.lock
+*.env
+*.local
+*.cmd

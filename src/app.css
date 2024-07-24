@@ -1,0 +1,13 @@
+/* src/App.css */
+.App {
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center; /* Vertically center */
+  height: 100vh; /* Full viewport height */
+  width: 100vw; /* Full viewport width */
+  background-color: #d6caca; /* Optional background color */
+}
+
+svg {
+  border: 1px solid #110505; /* Optional border for visual debugging */
+}
